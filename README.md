@@ -30,4 +30,5 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 
 ![Profile views](https://gpvc.arturio.dev/rusmajunior)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rusmajunior&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
