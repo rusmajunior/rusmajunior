@@ -26,7 +26,8 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 
 ![GitHub metrics](https://metrics.lecoq.io/rusmajunior)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rusmajunior)  
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rusmajunior&theme=shades-of-purple)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
 
 ![Profile views](https://gpvc.arturio.dev/rusmajunior)
 
