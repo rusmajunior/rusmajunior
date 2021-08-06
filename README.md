@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rusma Junior
 #### Student of Prochef-Academy
-![Student of Prochef-Academy](https://scontent.fsub8-1.fna.fbcdn.net/v/t1.18169-9/19030284_236407996858265_2376410270136208039_n.jpg?_nc_cat=100&ccb=1-4&_nc_sid=174925&_nc_eui2=AeGE-sJxVBCW-j8dJeEXO2DfOFeGAYMdNu84V4YBgx027w3gcO3SkDFNdoUfQh-BABroj7DTTOj_4fFcXaBuZlCt&_nc_ohc=WOH8EGs9QB0AX8oSLfc&_nc_ht=scontent.fsub8-1.fna&oh=addf699b7c062c45adcae4fee37e71c9&oe=6132EA14)
+![Student of Prochef-Academy](https://pbs.twimg.com/profile_banners/816619375662764032/1585457208/1500x500)
 
 I'm Rusma from Indonesia. I want to learn more about programming. 
 
