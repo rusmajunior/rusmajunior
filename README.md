@@ -22,7 +22,7 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusmajunior&theme=outrun&show_icons=true)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rusmajunior)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rusmajunior&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/rusmajunior)  
 
@@ -30,5 +30,5 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 
 ![Profile views](https://gpvc.arturio.dev/rusmajunior)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rusmajunior&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
