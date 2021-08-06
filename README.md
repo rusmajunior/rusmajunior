@@ -7,7 +7,7 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 ### Skills : 
 * C, HTML, CSS
 
-
+### About Me : 
 -  📍 Bali, Indonesia
 - 📆 09 August 2001 in Semarapura
 - 🐶 Dog Lovers
