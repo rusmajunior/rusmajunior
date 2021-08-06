@@ -1,6 +1,6 @@
+![Student of Prochef-Academy](https://pbs.twimg.com/profile_banners/816619375662764032/1585457208/1500x500)
 ### Hi there 👋, I'm Rusma Junior
 #### Student of Prochef-Academy
-![Student of Prochef-Academy](https://pbs.twimg.com/profile_banners/816619375662764032/1585457208/1500x500)
 
 I'm Rusma from Indonesia. I want to learn more about programming. 
 
