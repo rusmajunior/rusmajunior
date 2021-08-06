@@ -4,7 +4,8 @@
 
 I'm Rusma from Indonesia. I want to learn more about programming. 
 
-### Skills : C/ HTML / CSS
+### Skills : 
+* C, HTML, CSS
 
 
 -  📍 Bali, Indonesia
@@ -28,4 +29,5 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rusmajunior)  
 
 ![Profile views](https://gpvc.arturio.dev/rusmajunior)
+
 
