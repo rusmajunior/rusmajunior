@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Rusma from Indonesia. I want to learn more about programming. 
 <!--
 **rusmajunior/rusmajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
