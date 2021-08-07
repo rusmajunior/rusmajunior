@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋, I'm Rusma Junior </h1> <h2 align="center"> Student of Prochef-Academy </h2>
 
 
-I'm Rusma from Indonesia. I want to learn more about programming. 
+<p align="justify" > <i> I'm new to programming since I started college. However, it is never too late as long as we want to achieve a goal. Currently I am very lucky to join Daskom Laboratory. I can make new friends and can learn more about programming. Coupled with the holding of the Prochef-Academy which really helped me to learn about programming. Prochef-Academy is the place to express my interest in programming. Many other great people also joined. I wish I could follow the directions given by great mentors and be able to share them with friends. I hope they will accept me here. I will also try hard to complete the challenges given. Because the one who plays an important role in success is ourselves. </i> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/manusiaabiasa00?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/manusiaabiasa00)
 
