@@ -12,7 +12,7 @@
 ## 🙋‍♂️ Hello Guys 
 
 -  📍 Bali, Indonesia
-- 📆 09 August 2001 in Semarapura
+- 📆 August 09, 2001 in Semarapura
 - 🐶 Dog Lovers
 - 🌱 I’m currently learning WEB Programming 
 - 📫 How to reach me: rusmawirawan30@gmail.com 
