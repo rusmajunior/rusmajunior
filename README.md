@@ -6,7 +6,11 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/manusiaabiasa00?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/manusiaabiasa00)
 
+<br/>
+<br/>
+
 ### 🙋‍♂️About Me : 
+
 -  📍 Bali, Indonesia
 - 📆 09 August 2001 in Semarapura
 - 🐶 Dog Lovers
@@ -14,24 +18,38 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 - 📫 How to reach me: rusmawirawan30@gmail.com 
 - 🎶 Balinese Dancer and Traditional Music Player
 
+<br/>
+<br/>
+
 ### 💻 Languages and Tools:
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/rusmajunior" target="_blank"> <img src="https://img.icons8.com/windows/50/000000/github.png"/> </a> <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png" width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" /> </a> </p>
 
+<br/>
+<br/>
+
 ### 📽 Movies and Videos I Write:
+
   - **[Jagaraga Pralaya](https://www.instagram.com/p/BvXGV4MBeS9/)**
   - **[Penarungan](https://drive.google.com/file/d/12tVEXxLANk7dtslM7MmC7cJ-xdlXyley/view)**
   - **[Asa di ujung Kanvas](https://www.instagram.com/cineclueklungkung/)**
   - **[Petuah Sang Patih Anom](https://www.instagram.com/cineclueklungkung/)**
   
+<br/>
+<br/>
 
 ### 🔥 Skill: 
+
 <a href="https://www.canva.com/" target="_blank"> <img src="https://www.apkmirror.com/wp-content/uploads/2020/05/5ec5f731a2f8c.png" width="40" height="40" /> 
  <a href="https://filmora.wondershare.net/filmora-video-editor.html?gclid=Cj0KCQjwu7OIBhCsARIsALxCUaNMm4rNhOYsY_Gokypp6sISK7sBqWvUwYtz7hmhUvCW5bwGi9U91_gaApMSEALw_wcB" target="_blank"> <img src="https://tpng.net/download/600x600_250-2508717_png-effects-pack.png" width="40" height="40" /> <a href="https://id.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" /> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="50" height="50" />  </p>
   
-  <br>
-<br />
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusmajunior&theme=outrun&show_icons=true) [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rusmajunior&theme=shades-of-purple)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+<br/>
+<br/>
+
+<p align="center">   
+<a href="https://github.com/Rofiansyah/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rusmajunior&show_icons=true&count_private=true&theme=outrun&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/rusmajunior/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rusmajunior&theme=shades-of-purple&hide_border=true&stroke=0000&background=060A0CD0"/> </a> </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rusmajunior&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
