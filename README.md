@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-## 🔥 Skill: 
+## 🔥 Learning phase: 
 
 <a href="https://www.canva.com/" target="_blank"> <img src="https://www.apkmirror.com/wp-content/uploads/2020/05/5ec5f731a2f8c.png" width="40" height="40" /> 
  <a href="https://filmora.wondershare.net/filmora-video-editor.html?gclid=Cj0KCQjwu7OIBhCsARIsALxCUaNMm4rNhOYsY_Gokypp6sISK7sBqWvUwYtz7hmhUvCW5bwGi9U91_gaApMSEALw_wcB" target="_blank"> <img src="https://tpng.net/download/600x600_250-2508717_png-effects-pack.png" width="40" height="40" /> <a href="https://id.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50" height="50" /> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="50" height="50" />  </p>
