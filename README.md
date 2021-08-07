@@ -16,7 +16,8 @@
 - 🐶 Dog Lovers
 - 🌱 I’m currently learning WEB Programming 
 - 📫 How to reach me: rusmawirawan30@gmail.com 
-- 🎶 Balinese Dancer and Traditional Music Player
+- 🎶 <a href="https://www.instagram.com/p/Bsl0dTABj1z/" > Balinese Dancer and Traditional Music Player </a>
+- 🎖  <a href="https://www.instagram.com/p/BFluiUqpyXG/" > Bali children's ambassador 2016 </a>
 
 <br/>
 <br/>
