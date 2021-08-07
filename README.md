@@ -9,7 +9,7 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 <br/>
 <br/>
 
-## 🙋‍♂️About Me : 
+## 🙋‍♂️ Hello Guys 
 
 -  📍 Bali, Indonesia
 - 📆 09 August 2001 in Semarapura
@@ -54,7 +54,7 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rusmajunior&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Follow Me: </h3>
 <p align="left">
 <a href="https://twitter.com/manusiaabiasa00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manusiaabiasa00" height="30" width="40" /></a>
 <a href="https://fb.com/rusma.wirawan.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rusma.wirawan.10" height="30" width="40" /></a>
