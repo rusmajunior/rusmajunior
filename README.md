@@ -18,6 +18,7 @@
 - 📫 How to reach me: rusmawirawan30@gmail.com 
 - 🎶 <a href="https://www.instagram.com/p/Bsl0dTABj1z/" > Balinese Dancer and Traditional Music Player </a>
 - 🎖  <a href="https://www.instagram.com/p/BFluiUqpyXG/" > Bali children's ambassador 2016 </a>
+- 🚭 <a href="https://www.instagram.com/p/Bjm0--7lXux/" > It's cool without smoking❗ </p>
 
 <br/>
 <br/>
