@@ -12,7 +12,7 @@ I'm Rusma from Indonesia. I want to learn more about programming.
 - 🐶 Dog Lovers
 - 🌱 I’m currently learning WEB Programming 
 - 📫 How to reach me: rusmawirawan30@gmail.com 
-- 🎶 Balinese traditional music player
+- 🎶 Balinese Dancer and Traditional Music Player
 
 ### 💻 Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/rusmajunior" target="_blank"> <img src="https://img.icons8.com/windows/50/000000/github.png"/> </a> <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png" width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" /> </a> </p>
